@@ -21,8 +21,6 @@ python app.py
   "host": "127.0.0.1"
 }
 ```
-## documentation
-[Click here to view documentation](https://documenter.getpostman.com/view/457459/hospitalmanagementsystem/2HQup9)
 
 
 
