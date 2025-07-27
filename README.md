@@ -9,7 +9,7 @@
 
 ## Screenshots:
 # Login page
-![Login](images/login-1.jpg)
+![Login](D:\HospitalManagementSystem-main\HospitalManagementSystem-main\images)
 # Main Menu
 ![Main menu](images/menu.jpg)
 # Registration form
