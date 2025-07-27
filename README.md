@@ -3,15 +3,4 @@
 
 ### The data can be retrieved easily. The interface is very user-friendly. The data are well protected for personal use and makes the data processing very fast. Hospital Management System is powerful, flexible, and easy to use and is designed and developed to deliver real conceivable benefits to hospitals.
 
-## FRONT END: Tkinter (Python)
-## SERVER-SIDE SCRIPT: Python
-## DATABASE: sqlite
-
-## Screenshots:
-# Login page
-![Login](D:\HospitalManagementSystem-main\HospitalManagementSystem-main\images)
-# Main Menu
-![Main menu](images/menu.jpg)
-# Registration form
-![RegForm](images/form.jpg)
 
